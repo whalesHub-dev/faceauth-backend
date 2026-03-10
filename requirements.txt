@@ -1,0 +1,16 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+sqlalchemy[asyncio]==2.0.30
+asyncpg==0.29.0
+pydantic==2.7.0
+pydantic-settings==2.2.1
+python-multipart==0.0.9
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+PyJWT==2.8.0
+deepface==0.0.91
+tensorflow==2.15.0
+opencv-python-headless==4.9.0.80
+Pillow==10.3.0
+numpy==1.26.4
+cloudinary==1.40.0
